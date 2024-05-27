@@ -15,7 +15,7 @@ O objetivo é evitar que a cobra colida com as paredes e comer a fruta o máximo
 ### 🏆Safe Score
 Ao comer a fruta voce acumula pontos que ficam salvos e monstram no final da partida, tanto a pontuação feita naquela rodada quanto as da rodada anterior
 
-### ⚡️ Alta Velocidade:
+### ⚡️ Dificuldade:
 Quanto mais você come a fruta mais rapido fica a cobra dificultando o jogo. 
 
 ## 🕹️ Como Jogar
