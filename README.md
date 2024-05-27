@@ -12,10 +12,10 @@ O Snake Game é um clássico jogo onde você controla uma cobra que se move pelo
 
 O objetivo é evitar que a cobra colida com as paredes e comer a fruta o máximo que conseguir para coletar a maior quantidade de pontos possíveis.
 
-### 🏆Safe Score
+### 🏆 Safe Score
 Ao comer a fruta voce acumula pontos que ficam salvos e monstram no final da partida, tanto a pontuação feita naquela rodada quanto as da rodada anterior
 
-### ⚡️ Dificuldade:
+### ⚡️ Velocidade:
 Quanto mais você come a fruta mais rapido fica a cobra dificultando o jogo. 
 
 ## 🕹️ Como Jogar
