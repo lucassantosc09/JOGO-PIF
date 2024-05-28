@@ -26,14 +26,14 @@ Controles: Use as teclas W (cima), A (esquerda), S (baixo) e D (direita) para mo
 
 Para executar o Snake, siga estas etapas:
 
-1. Clone este repositório em sua máquina:
+1. Clone este repositório em sua máquina
    
 
 3. Compile o programa:
    necessário a existencia do Makefile.
 
 4. Rode o programa:
-   Com o Makefile inserido, só da run no código.
+   Com o Makefile inserido, apenas da run no código.
 
 ## 👩‍💻 Membros
 
