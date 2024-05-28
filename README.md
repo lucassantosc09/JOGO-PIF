@@ -27,13 +27,13 @@ Controles: Use as teclas W (cima), A (esquerda), S (baixo) e D (direita) para mo
 Para executar o Snake, siga estas etapas:
 
 1. Clone este repositório em sua máquina:
-   `Lorem Ipsum has been the industry's standard`
+   
 
 3. Compile o programa:
-   `Lorem Ipsum has been the industry's standard`
+   necessário a existencia do Makefile.
 
 4. Rode o programa:
-   `Lorem Ipsum has been the industry's standardn`
+   Com o Makefile inserido, só da run no código.
 
 ## 👩‍💻 Membros
 
